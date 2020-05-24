@@ -1,4 +1,4 @@
 # sharex
 moo's sharex host
 
-some code skidded by mrscopes shut up idc
+some code skidded from mrscopes shut up idc
